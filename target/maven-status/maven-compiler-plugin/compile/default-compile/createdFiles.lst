@@ -1,0 +1,11 @@
+com\realdolmen\EmailBuilder.class
+com\realdolmen\ConvertDirector.class
+com\realdolmen\MainApp.class
+com\realdolmen\EmailToHtmlBuilder.class
+com\realdolmen\EmailToTextBuilder.class
+com\realdolmen\FXMLController.class
+com\realdolmen\Email.class
+com\realdolmen\MyFileWriter.class
+com\realdolmen\DateUtil.class
+com\realdolmen\EmailToXmlBuilder.class
+com\realdolmen\MyFileReader.class
